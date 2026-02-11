@@ -158,6 +158,7 @@ MONGO_URI=<YOUR_MONGODB_ENDPOINT_COPY_FROM_MONGOBD_ATLAS>
 ---
 
 ### ✅ Step 7: Create Backend Dockerfile
+A Dockerfile is already present in this directory, so please delete it or replace its content with the following Dockerfile content.
 
 ```bash
 nano Dockerfile
@@ -283,7 +284,7 @@ server {
 ---
 
 ### ✅ Step 13: Create Frontend Dockerfile
-
+A Dockerfile is already present in this directory, so please delete it or replace its content with the following Dockerfile content.
 ```bash
 nano Dockerfile
 ```
